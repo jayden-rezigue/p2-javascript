@@ -1,0 +1,16 @@
+input{
+    padding: 15px 10px;
+    font-size: 10px;
+}
+
+button{
+    padding: 8px 50px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#notification{
+    color: blueviolet;
+    height: 50px;
+}
