@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to top, #b8ccd2 10%, #ffcee7 100%);
+}
+
+.pizza{
+    position: absolute;
+    left: 500px;
+    margin-top: 150px;
+}
+
+.idk{
+    position: absolute;
+    margin-left: 700px;
+}
+
+.idk2{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+#aantal{
+    position: absolute;
+    left: 650px;
+}
+
+button{
+    margin-top: 475%;
+}
+
